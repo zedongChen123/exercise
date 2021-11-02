@@ -6,3 +6,4 @@ My stupid boss still prefers SVN.-1
 
 Creating a new branch is quick AND simple.
 
+git switch -c dev
